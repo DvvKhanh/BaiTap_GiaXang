@@ -1,1 +1,2 @@
-# BaiTap_GiaXang
+# BÀI TẬP MÔN KHOA HỌC DỮ LIỆU
+# ĐỀ BÀI: PHÂN TÍCH THỐNG KÊ BIẾN ĐỘNG GIÁ XĂNG CỦA VIỆT NAM (2021-2025)
