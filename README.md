@@ -129,11 +129,13 @@ Trong tương lai có thể:
 
 ## 11. Kết luận
 Đề tài đã xây dựng thành công hệ thống phân tích giá xăng RON 95 bằng Python.
+
 Chương trình:
 - Xử lý dữ liệu hiệu quả.
 - Trực quan hóa rõ ràng.
 - Hỗ trợ phân tích xu hướng biến động giá.
 - Giúp người dùng dễ dàng theo dõi thị trường xăng dầu.
+
 Thông qua bài toán này có thể thấy Python là công cụ mạnh trong:
 - Phân tích dữ liệu.
 - Thống kê.
